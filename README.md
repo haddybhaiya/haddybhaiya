@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✴️ About Me:
 - 💡 Buidling impactful projects — real-time solutions & machine learning<br>
 - 🌱 Currently improving full-stack skills & system design<br>
 - 🔭 Interested in Open Source & collaborative development<br>
