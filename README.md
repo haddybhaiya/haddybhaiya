@@ -85,18 +85,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake (bcz why NOT!)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haddybhaiya/haddybhaiya/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haddybhaiya/haddybhaiya/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/haddybhaiya/haddybhaiya/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 ### 💜 If you find my work useful, drop a ⭐ — it means a lot!
