@@ -10,4 +10,9 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=haddybhaiya&color=green)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haddybhaiya&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="contribution graph" />
+
+
+
