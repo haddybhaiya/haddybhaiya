@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-▸ **Contributor @** **[InsForge/CLI](https://github.com/insforge/cli)**(YC S26) · built the **`--forger`** - cli animation for the InsForge/CLI<br/>
+▸ **Contributor @** **[InsForge/CLI](https://github.com/insforge/cli)**(YC P26) · built the **`--forger`** - cli animation for the InsForge/CLI<br/>
 ▸ **Building** **[audit](https://github.com/haddybhaiya/audit)** · AI bias detection & audit platform · proxy bias scanning, black-box counterfactual  probing, SHAP explainability,<br/> &nbsp;&nbsp;&nbsp;&nbsp;Groq-powered audit reports<br/>
 ▸ **Contrubutor@** **[Neuropole/apricot](https://github.com/neuropole/apricot)** · repository-intelligence RAG agent · self-hostable GitHub Actions agent for codebase-aware <br/> &nbsp;&nbsp;&nbsp;&nbsp;PR review & test generation, built on Groq, sentence-transformers, ChromaDB, and tree-sitter<br/>
 ▸ **Built -** **[sem-i-con](https://github.com/haddybhaiya/sem-i-con)** · **Top 30 / 911** at the **IESA NXP GlobalFoundries Deeptech Hackathon** — semiconductor wafer-defect classifier <br/> &nbsp;&nbsp;&nbsp;&nbsp;(ConvNeXt→EfficientNet distillation, **97.5%** size reduction, ONNX edge export,synthetic and manually curated semiconductor <br/> &nbsp;&nbsp;&nbsp;&nbsp;wafer/die images using SEM images)<br/>
